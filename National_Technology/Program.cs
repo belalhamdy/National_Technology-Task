@@ -23,7 +23,7 @@ namespace National_Technology
             for (int idx = 0; idx < N; idx++)
                 Console.WriteLine("{0,-15} {1,5}", data[idx], data[idx].YearDays());
 
-            SelectionSort(data, N);
+            SelectionSort(data);
 
             Console.WriteLine();
             Console.WriteLine("-----------------------------\n");
@@ -37,8 +37,14 @@ namespace National_Technology
                 Console.WriteLine("{0,-15} {1,5}", data[idx], data[idx].YearDays());
 
         }
-        static void SelectionSort(Date[] data,int size)
+        /// <summary>
+        /// Implementation of selection sort algorithm to sort array of dates and takes the array by reference
+        /// </summary>
+        /// <param array of dates="data"></param>
+        static void SelectionSort(Date[] data)
         {
+            int size = data.Length;
+
             int minimum;
             Date temp;
 
