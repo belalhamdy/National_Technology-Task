@@ -8,8 +8,12 @@ namespace National_Technology
     {
         private int day, month, year;
 
-        public Date (int day,int month,int year)
+        public Date(int day, int month, int year)
         {
+            // validating input bounds
+            if (day <= 0 || month <= 0 || year <= 0) throw new System.ArgumentException("Input must be positive integer only");
+            if ((day > 29 && month == 2) || day > 31 || month > 12 || year > 9999) throw new System.ArgumentException("Input must be bounded");
+
             this.day = day;
             this.month = month;
             this.year = year;
