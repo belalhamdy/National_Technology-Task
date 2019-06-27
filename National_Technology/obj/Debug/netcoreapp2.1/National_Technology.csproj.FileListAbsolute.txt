@@ -1,0 +1,11 @@
+S:\miscellaneous\National_Technology\National_Technology\bin\Debug\netcoreapp2.1\National_Technology.deps.json
+S:\miscellaneous\National_Technology\National_Technology\bin\Debug\netcoreapp2.1\National_Technology.runtimeconfig.json
+S:\miscellaneous\National_Technology\National_Technology\bin\Debug\netcoreapp2.1\National_Technology.runtimeconfig.dev.json
+S:\miscellaneous\National_Technology\National_Technology\bin\Debug\netcoreapp2.1\National_Technology.dll
+S:\miscellaneous\National_Technology\National_Technology\bin\Debug\netcoreapp2.1\National_Technology.pdb
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.csprojAssemblyReference.cache
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.csproj.CoreCompileInputs.cache
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.AssemblyInfoInputs.cache
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.AssemblyInfo.cs
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.dll
+S:\miscellaneous\National_Technology\National_Technology\obj\Debug\netcoreapp2.1\National_Technology.pdb
